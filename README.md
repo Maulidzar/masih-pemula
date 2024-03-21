@@ -8,3 +8,5 @@ Anggota Kelompok :
 - Gideon Aji Prakoso (215150207111085)
 
 Tema Project : Ruang Keluarga Sederhana
+
+Model ruang keluarga sederhana yang dibuat menggunakan metode Voxel-Like dari kumpulan vertex kubus.
