@@ -10,3 +10,5 @@ Anggota Kelompok :
 Tema Project : Ruang Keluarga Sederhana
 
 Model ruang keluarga sederhana yang dibuat menggunakan metode Voxel-Like dari kumpulan vertex kubus.
+
+Demo : https://youtu.be/s839G1pxPa0?si=Vb6pHZbyCSV9dVkd
